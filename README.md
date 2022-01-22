@@ -1,8 +1,8 @@
 # PhotoApp
 
 **A Simple Photo  App using Swift and MVC pattern**  
-On after App launch, you will see gallery view , "Add" option to upload new photo from device galery or camera. User can also delete photo by pressing Delete button on photos.   
-Details view where user can full image and its details. there is option to update new photo using Edit option.  
+After App launch, you will see a gallery view , "Add" option to upload new photos from device gallery or camera. Users can also delete photos by pressing the Delete button on photos.   
+Details view where the user can full image and its details. There is an option to update a new photo using the Edit option.    
 
 **Technology and Methodology which used**  
 MVC - MVC stands for Model, View, Controller. It is a structural design pattern that allows for the separation of code into 3 groups .  
@@ -24,7 +24,6 @@ SnapKit
 Photos
 UIKit  
 Toast_Swift
-GoogleMobileAds  
 
 
 **Architecture Diagram**  

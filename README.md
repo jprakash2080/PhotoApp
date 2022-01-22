@@ -26,18 +26,20 @@ UIKit
 Toast_Swift
 GoogleMobileAds  
 
+
+**Architecture Diagram**  
+![alt text](https://github.com/jprakash2080/PhotoApp/blob/MusicPlayerMVVM-Main/Documentation/MVCPattern.jpg?raw=true "MVCPattern")  
+
+------------
+ ![alt text](https://github.com/jprakash2080/PhotoApp/blob/MusicPlayerMVVM-Main/Documentation/PhotoAppArchitecture.jpg?raw=true "PhotoAppArchitecture")  
+
+**App Screens**  
+![alt text](https://github.com/jprakash2080/PhotoApp/blob/MusicPlayerMVVM-Main/screens/galleryview.jpeg?raw=true "GalleryView")  
+
+------------
+ ![alt text](https://github.com/jprakash2080/PhotoApp/blob/MusicPlayerMVVM-Main/screens/detailsview.jpeg?raw=true "DetailsView") 
+
+
 **TODO:**  
 1. Smooth loading of images without any flickering 
 2. Capture photo using latest framework AVCam
-
-**Architecture Diagram**  
-![alt text](https://github.com/jprakash2080/MusicPlayer/blob/MusicPlayerMVVM-Main/PlayingSong.png?raw=true "MVCPattern")  
-
-------------
- ![alt text](https://github.com/jprakash2080/MusicPlayer/blob/MusicPlayerMVVM-Main/RecentSongs.png?raw=true "PhotoAppArchitecture")  
-
-**App Screens**  
-![alt text](https://github.com/jprakash2080/MusicPlayer/blob/MusicPlayerMVVM-Main/PlayingSong.png?raw=true "GalleryView")  
-
-------------
- ![alt text](https://github.com/jprakash2080/MusicPlayer/blob/MusicPlayerMVVM-Main/RecentSongs.png?raw=true "DetailsView") 
